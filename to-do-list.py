@@ -23,7 +23,7 @@ def mark_task_done(index):
 def main():
     while True:
         print("\nTo-Do List Application")
-        print("1. Add a task")
+        print("1. Add a task.")
         print("2. View tasks")
         print("3. Delete a task")
         print("4. Mark a task as done")
